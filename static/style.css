@@ -1,0 +1,95 @@
+body {
+    background-color: rgb(7, 38, 96);
+    text-decoration: aliceblue;
+}
+
+.head-div{
+    background-color: rgb(0, 204, 255);
+    height: 100px;
+    text-align: center;
+}
+.head-text{
+    padding-top: 14px;
+    text-align: center;
+    color: rgb(7, 38, 96);
+}
+.intro-div{
+    margin: 5%;
+
+    /* background-color: rgb(255, 255, 255); */
+    width: 40%;
+    height: 200px;
+    /* border-radius: 3%; */
+    
+    /* text-align: center; */
+}
+
+.intro-text{
+    padding-top: 60px;
+    font-size: 50px;
+    color: aliceblue;
+}
+.intro-sub-text{
+    font-size: 25px;
+    color: aliceblue;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.text-sum-div{
+    margin: 5%;
+    margin-top: 10%;
+}
+.divide-div{
+    display: flex;
+flex-direction: row;
+}
+
+.form-control{
+    /* padding-bottom: 2%; */
+    margin-bottom: 2%;
+}
+.text-sum-sub-div{
+    padding-bottom: 10%;
+
+}
+.form-text{
+    color: aliceblue;
+}
+
+
+/* Css for URL Sum */
+
+.sum-box{
+    margin: 5%;
+    background-color: aliceblue;
+    width: 80%;
+    height: auto;
+
+  box-shadow:
+  0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+  0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+  0 12.5px 10px rgba(0, 0, 0, 0.06),
+  0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+  0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+  0 100px 80px rgba(0, 0, 0, 0.12)
+;
+
+  min-height: 200px;
+  width: 70vw;
+  margin: 100px auto;
+  background: white;
+  border-radius: 5px;
+    /* text-align: center; */
+}
+
+.sum-text{
+    font-size: 25px;
+    /* text-align: center; */
+    padding: 5%;
+    color: rgb(0, 0, 0);
+}
+.intro-div-sum{
+    margin: 5%;
+
+    
+}
